@@ -36,13 +36,9 @@ pip install pandas numpy matplotlib
 
 ## 📊 Sample Output
 ### 🌍 State-wise Crop Production
-![State Crop Production](images/state_crop_production.png)
+![State Crop Production](![image](https://github.com/user-attachments/assets/bfffda0c-f56e-4dc8-ad13-28fb30e2b6b5)
+)
 
-### 📈 Crop Growth Trends
-![Crop Growth Graph](images/crop_growth_trends.png)
-
-### 🌾 Top Producing States
-![Top Producing States](images/top_producing_states.png)
 
 ## 📜 License
 This project is open-source and available for use!
